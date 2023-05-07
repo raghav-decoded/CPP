@@ -1,0 +1,16 @@
+An STL is a library of generic functions and classes which saves you time and energy which you would have spent constructing for your use. This helps you reuse these well tested classes and functions umpteenth number of times according to your own convenience. 
+
+COMPONENTS OF STL:
+We have three components in STL:
+Containers
+Algorithm
+Iterators
+
+CONTAINERS
+    Container is an object which stores data. We have different containers having their own benefits.
+
+ALGORITHMS    
+    Algorithms are a set of instructions which manipulates the input data to arrive at some desired result. 
+
+ITERATORS
+    Iterators are objects which refer to an element in a container. And we handle them very much similarly to a pointer. 
